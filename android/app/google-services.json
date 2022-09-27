@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "355034620973",
+    "project_id": "flutter-e-commerce-riverpod",
+    "storage_bucket": "flutter-e-commerce-riverpod.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:355034620973:android:c8163c4a234fcdbae544a4",
+        "android_client_info": {
+          "package_name": "com.example.e_commerce_app_with_firebase_riverpod"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "355034620973-3jp300ri3un9q3ptet6fo5a37ht36qji.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDraG_wv8Lsn85QRUiPMzzrv6gaVXq2Evk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "355034620973-3jp300ri3un9q3ptet6fo5a37ht36qji.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
